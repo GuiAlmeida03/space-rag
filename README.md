@@ -9,7 +9,7 @@ satélites, clima, agricultura geoespacial, monitoramento ambiental e exploraç�
 flowchart TD
     A[Usuário faz pergunta] --> B[Gerar embedding da pergunta\nall-MiniLM-L6-v2]
     B --> C[Busca FAISS top-k=4]
-    C --> D{score >= 0.45?}
+    C --> D{score >= 0.30?}
     D -- Não --> E[🔴 Fora do escopo\nGroq não é chamado]
     D -- Sim --> F[Montar prompt com chunks]
     F --> G[Groq LLaMA 3 70B]
@@ -35,7 +35,7 @@ flowchart TD
 - Latência baixa (~1-3s por resposta)
 - Obtenha sua chave em: https://console.groq.com
 
-**Threshold 0.45:** calibrado empiricamente com os documentos reais do corpus (scores na faixa 0.1-0.5).
+**Threshold 0.30:** calibrado empiricamente com os documentos reais do corpus (scores na faixa 0.1-0.5).
 Ajuste em `src/config.py → SIMILARITY_THRESHOLD` conforme seus documentos.
 
 ## Instalação
