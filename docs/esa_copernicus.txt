@@ -1,0 +1,22 @@
+source: ESA Copernicus Programme — Environmental Monitoring
+url: https://www.esa.int/Applications/Observing_the_Earth/Copernicus
+
+O programa Copernicus é o serviço europeu de observação da Terra, operado pela ESA em
+parceria com a Comissão Europeia. É considerado o maior programa de observação da Terra
+do mundo, fornecendo dados gratuitos e abertos para monitoramento ambiental, gestão de
+desastres, segurança e mudanças climáticas.
+
+A constelação de satélites Sentinel forma a espinha dorsal do Copernicus:
+- Sentinel-1: radar de abertura sintética (SAR) para monitoramento de terrenos e oceanos
+- Sentinel-2: imagens multiespectrais de alta resolução para agricultura e uso da terra
+- Sentinel-3: monitoramento oceânico e de temperatura superficial terrestre
+- Sentinel-5P: monitoramento da qualidade do ar e composição atmosférica
+
+O Sentinel-5P identificou reduções significativas de NO2 sobre cidades europeias durante
+o lockdown de 2020 causado pela COVID-19. O satélite Sentinel-2 possui resolução espacial
+de até 10 metros e revisita cada ponto da Terra a cada 5 dias.
+
+Os dados do Copernicus são utilizados por mais de 550.000 usuários registrados em todo o
+mundo. O programa contribui com mais de 53 bilhões de euros anuais à economia europeia
+através de serviços derivados. O Copernicus Emergency Management Service (EMS) fornece
+mapas de ativação em menos de 12 horas após solicitação em casos de desastres naturais.

@@ -1,0 +1,25 @@
+source: SpaceX Starlink — Constelação de Satélites de Telecomunicações
+url: https://www.starlink.com
+
+O Starlink é a constelação de satélites de internet de banda larga de baixa órbita (LEO)
+operada pela SpaceX. Em 2024, a constelação conta com mais de 6.000 satélites ativos em
+órbita, tornando-se a maior constelação de satélites já implantada. O objetivo é atingir
+42.000 satélites para cobertura global total.
+
+Os satélites Starlink operam em órbitas entre 340 km e 570 km de altitude, significativamente
+mais baixas que os satélites geoestacionários (35.786 km), resultando em latências de 20-60ms
+versus 600ms dos satélites tradicionais. Cada satélite pesa aproximadamente 300 kg e possui
+vida útil de 5-7 anos.
+
+O serviço residencial Starlink oferece velocidades de download entre 50-200 Mbps em regiões
+onde a cobertura é densa. O Starlink Maritime atende navios e plataformas offshore. O Starlink
+Aviation é utilizado em aeronaves comerciais. Em 2023, o Starlink foi fundamental para manter
+comunicações na Ucrânia durante o conflito com a Rússia.
+
+Concorrentes incluem o OneWeb (agora Eutelsat OneWeb) com 648 satélites, Amazon Project
+Kuiper com planos de 3.236 satélites, e o sistema Telesat Lightspeed. A China opera a
+constelação Starnet/GW com planos de 12.992 satélites.
+
+O lançamento em massa de satélites LEO gera preocupações astronômicas devido à poluição
+luminosa e de radiofrequência. O International Astronomical Union (IAU) estima que os
+satélites Starlink aparecem em 2-5% das imagens de longa exposição de observatórios.

@@ -1,0 +1,20 @@
+source: NASA Artemis Program — Overview
+url: https://www.nasa.gov/artemis
+
+O Programa Artemis da NASA tem como objetivo retornar humanos à Lua até 2026 e estabelecer
+uma presença sustentável no ambiente lunar. A missão Artemis I, lançada em novembro de 2022,
+foi um voo de teste não tripulado ao redor da Lua com a cápsula Orion. Artemis II, prevista
+para 2025, será a primeira missão tripulada ao redor da Lua desde Apollo 17 em 1972.
+
+O foguete Space Launch System (SLS) é o veículo de lançamento mais poderoso já construído
+pela NASA, capaz de gerar 8,8 milhões de libras de empuxo. A Gateway, estação espacial lunar,
+será construída em órbita lunar para servir como base de operações para missões à superfície.
+
+O programa Artemis envolve parcerias internacionais com a Agência Espacial Europeia (ESA),
+a Agência Japonesa de Exploração Aeroespacial (JAXA) e a Agência Espacial Canadense (CSA).
+O objetivo de longo prazo é usar a Lua como trampolim para missões tripuladas a Marte.
+
+A arquitetura do programa inclui o traje espacial Axiom Extravehicular Mobility Unit (AxEMU),
+desenvolvido pela Axiom Space, e o Human Landing System (HLS) desenvolvido pela SpaceX,
+utilizando uma versão modificada da Starship. O custo total estimado do programa até 2025
+é de aproximadamente 93 bilhões de dólares.

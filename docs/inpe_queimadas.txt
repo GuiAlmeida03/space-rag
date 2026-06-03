@@ -1,0 +1,23 @@
+source: INPE — Monitoramento de Queimadas e Desmatamento na Amazônia
+url: https://www.inpe.br/queimadas
+
+O Instituto Nacional de Pesquisas Espaciais (INPE) opera o sistema de monitoramento de
+queimadas e desmatamento mais avançado da América Latina. O sistema DETER (Detecção de
+Desmatamento em Tempo Real) emite alertas de desflorestamento com frequência de até 16 dias,
+usando imagens dos satélites CBERS e Landsat.
+
+Em 2023, o INPE registrou 89.088 focos de incêndio na Amazônia Legal, representando um
+aumento de 20% em relação a 2022. O estado do Mato Grosso liderou o ranking com 22.116
+focos, seguido pelo Pará com 18.942 focos.
+
+O sistema PRODES (Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite)
+mede o desmatamento acumulado anualmente. Em 2023, o desmatamento na Amazônia foi de
+11.568 km², uma redução de 50% em relação a 2022 (21.664 km²), o menor índice desde 2018.
+
+O INPE utiliza os satélites CBERS-4A (sino-brasileiro), Aqua e Terra da NASA, e Sentinel-2
+da ESA para o monitoramento. O satélite AMAZONIA-1, lançado em 2021, é o primeiro satélite
+de observação da Terra 100% desenvolvido no Brasil, com capacidade de cobrir toda a Amazônia
+em 3 dias com resolução de 60 metros.
+
+O Cerrado, segundo maior bioma brasileiro, perdeu 10.684 km² em 2023, superando a Amazônia
+em área desmatada e representando uma preocupação crescente para conservacionistas.

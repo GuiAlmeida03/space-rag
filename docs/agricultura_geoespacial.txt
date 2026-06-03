@@ -1,0 +1,26 @@
+source: Agricultura de Precisão com Sensoriamento Remoto e Dados Geoespaciais
+url: https://www.embrapa.br/agricultura-digital
+
+O sensoriamento remoto por satélite revolucionou a agricultura de precisão ao permitir o
+monitoramento de lavouras em escala continental com custo reduzido. O índice NDVI (Normalized
+Difference Vegetation Index) calculado a partir de imagens Sentinel-2 e Landsat permite
+avaliar a saúde das culturas, detectar estresse hídrico e estimar produtividade antes da colheita.
+
+O Brasil, maior exportador agrícola do mundo, utiliza satélites para monitorar 340 milhões
+de hectares de área agricultável. O sistema SIGEF (Sistema de Gestão Fundiária) do INCRA
+usa imagens de satélite para georreferenciamento de propriedades rurais. A EMBRAPA desenvolve
+algoritmos de classificação de culturas usando imagens Sentinel-2 e CBERS-4A.
+
+Tecnologias-chave em agricultura geoespacial:
+- NDVI (vegetação): valores 0.6-0.9 indicam vegetação saudável e densa
+- NDWI (água): monitora estresse hídrico e irrigação
+- SAR (radar): penetra nuvens, crucial no período chuvoso do Brasil
+- Drones com câmeras multiespectrais: resolução centimétrica para talhões específicos
+
+A plataforma Google Earth Engine processa petabytes de imagens de satélite gratuitamente
+para pesquisadores. O MapBiomas classifica o uso e cobertura do solo brasileiro anualmente
+usando machine learning aplicado a imagens Landsat, cobrindo 36 anos de dados históricos.
+
+A agricultura de precisão orientada por satélite reduz o uso de defensivos agrícolas em
+até 25% e fertilizantes em 15%, segundo estudos da ESALQ/USP, contribuindo para menor
+impacto ambiental e maior rentabilidade por hectare.
