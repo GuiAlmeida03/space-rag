@@ -2,4 +2,16 @@
 vector_store/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
