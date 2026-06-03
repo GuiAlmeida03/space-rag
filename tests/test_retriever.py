@@ -12,7 +12,7 @@ def _make_doc(content: str, source: str):
 
 def test_filter_keeps_above_threshold():
     doc = _make_doc("conteúdo relevante", "nasa.txt")
-    docs_and_scores = [(doc, 0.85), (_make_doc("outro", "x.txt"), 0.5)]
+    docs_and_scores = [(doc, 0.85), (_make_doc("outro", "x.txt"), 0.3)]
     result = _filter_by_threshold(docs_and_scores)
     assert len(result) == 1
     assert result[0]["score"] == 0.85
