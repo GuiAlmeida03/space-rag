@@ -23,7 +23,7 @@ def _build_context(chunks: list[dict]) -> str:
     parts = []
     for i, chunk in enumerate(chunks, 1):
         parts.append(
-            f"[{i}] Fonte: {chunk['source']} (score: {chunk['score']})\n{chunk['content']}"
+            f"[{i}] Fonte: {os.path.basename(chunk['source'])} (score: {chunk['score']})\n{chunk['content']}"
         )
     return "\n\n---\n\n".join(parts)
 
